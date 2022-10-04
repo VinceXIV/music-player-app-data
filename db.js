@@ -1,7 +1,7 @@
-const musicComments = require("./data/music-comments");
+const comments = require("./data/music-comments");
 const musicInfo = require("./data/music-info");
 
 module.exports = {
-    musicComments,
+    comments,
     musicInfo
 }

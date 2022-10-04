@@ -7,8 +7,7 @@
 		"path": "./assets/songs/recommended for you/Joe Bonamassa - Why Does It Take So Long To Say Goodbye.mp3",
 		"banner": "./assets/images/RCA_BONAMASSA.png",
 		"likes": 644,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 2,
@@ -18,8 +17,7 @@
 		"path": "./assets/songs/blues-jazz/Don't Write Me Off.mp3",
 		"banner": "",
 		"likes": 425,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 3,
@@ -29,8 +27,7 @@
 		"path": "./assets/songs/blues-jazz/Been There, Done That.mp3",
 		"banner": "",
 		"likes": 637,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 4,
@@ -40,8 +37,7 @@
 		"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
 		"banner": "./assets/images/Buddy Guy.png",
 		"likes": 532,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 5,
@@ -51,8 +47,7 @@
 		"path": "./assets/songs/blues-jazz/China Moses  - Cry Me a River.mp3",
 		"banner": "",
 		"likes": 203,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 6,
@@ -62,7 +57,7 @@
 		"path": "./assets/songs/blues-jazz/Chloé - Your Heart Is As Black As Night.mp3",
 		"banner": "",
 		"likes": 123,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 7,
@@ -72,19 +67,7 @@
 		"path": "./assets/songs/blues-jazz/Claudia Bettinaglio - Invitation To The Blues.mp3",
 		"banner": "",
 		"likes": 422,
-		"favorited": true,
-		"comments": [
-			{
-				"id": 1,
-				"commenterName": "Romulo",
-				"content": "Awesome!"
-			},
-			{
-				"id": 2,
-				"commenterName": "Antonio",
-				"content": "I think of her every time I hear this song!"
-			}
-		]
+		"favorited": true
 	},
 	{
 		"id": 8,
@@ -94,9 +77,8 @@
 		"path": "./assets/music/blues-jazz/Don't Write Me Off.mp3",
 		"banner": "",
 		"likes": 314,
-		"favorited": true,
-		"comments": []
-	},
+		"favorited": true
+		},
 	{
 		"id": 9,
 		"playList": "bluesJazz",
@@ -105,8 +87,7 @@
 		"path": "./assets/songs/blues-jazz/Eilen Jewell - I Remember You.mp3",
 		"banner": "",
 		"likes": 157,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 10,
@@ -116,23 +97,7 @@
 		"path": "./assets/songs/blues-jazz/I Need to See You Again - Natalia M. King.mp3",
 		"banner": "",
 		"likes": 700,
-		"favorited": false,
-		"comments": [
-			{
-				"id": 3,
-				"playList": "bluesJazz",
-				"songId": 10,            
-				"commenterName": "Jeniffer",
-				"content": "Heard this song at a friend's wedding, didn't know it would become such a huge part of my life"
-			},
-			{
-				"id": 4,
-				"playList": "bluesJazz",
-				"songId": 10,
-				"commenterName": "Rachel",
-				"content": "Am so emoshonoo 😭😭😭"
-			}			
-		]
+		"favorited": false
 	},
 	{
 		"id": 11,
@@ -142,8 +107,7 @@
 		"path": "./assets/songs/blues-jazz/JT Coldfire - She_s Crazy.m4a",
 		"banner": "",
 		"likes": 130,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 12,
@@ -152,8 +116,7 @@
 		"songArtist": "Linda Carone",
 		"path": "./assets/songs/blues-jazz/Linda Carone - Big Bad Handsome Man.mp3",
 		"likes": 234,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 13,
@@ -162,8 +125,7 @@
 		"path": "./assets/songs/blues-jazz/Luce Dufault - Damn Your Eyes.mp3",
 		"banner": "",
 		"likes": 245,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 14,
@@ -173,8 +135,7 @@
 		"path": "./assets/songs/blues-jazz/Oli Brown - I Love You More You'll Ever Know.mp3",
 		"banner": "",
 		"likes": 326,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 15,
@@ -184,8 +145,7 @@
 		"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
 		"banner": "./assets/images/Buddy Guy.png",
 		"likes": 532,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 16,
@@ -195,8 +155,7 @@
 		"path": "./assets/songs/blues-rock/Billy Jenkins - A Virus Called The Blues.m4a",
 		"banner": "",
 		"likes": 214,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 17,
@@ -205,8 +164,7 @@
 		"songArtist": "ZZ Top",
 		"path": "./assets/songs/blues-rock/20. Vincent Price Blues.mp3",
 		"likes": 146,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 18,
@@ -216,8 +174,7 @@
 		"path": "./assets/songs/blues-rock/26. Over You.mp3",
 		"banner": "",
 		"likes": 163,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 19,
@@ -227,8 +184,7 @@
 		"path": "./assets/songs/blues-rock/Do I look worried.mp3",
 		"banner": "",
 		"likes": 198,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 20,
@@ -238,8 +194,7 @@
 		"path": "./assets/songs/blues-rock/Garou - I Put a Spell on You.mp3",
 		"banner": "",
 		"likes": 191,
-		"favorited": true,
-		"comments": []
+		"favorited": true
 	},
 	{
 		"id": 21,
@@ -249,8 +204,7 @@
 		"path": "./assets/songs/blues-rock/I Need Time CD 1 TRACK 3 (320).mp3",
 		"banner": "",
 		"likes": 149,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 22,
@@ -260,19 +214,7 @@
 		"path": "./assets/songs/blues-rock/I'm in a dangerous mood.m4a",
 		"banner": "",
 		"likes": 175,
-		"favorited": false,
-		"comments":[
-			{
-				"id": 5,
-				"commenterName": "Vincent",
-				"content": "I really am in a dangerous mood"
-			},
-			{
-				"id": 6,
-				"commenterName": "Joe",
-				"content": "Heard this song at a friend's wedding, never thought it would become such a huge part of my life"
-			}			
-		]
+		"favorited": false
 	},
 	{
 		"id": 23,
@@ -282,8 +224,7 @@
 		"path": "./assets/songs/blues-rock/Janiva Magness You Were Never Mine.mp3",
 		"banner": "",
 		"likes": 156,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 24,
@@ -292,8 +233,7 @@
 		"songArtist": "The Black Keys",
 		"path": "./assets/songs/blues-rock/The Black Keys - Too Afraid to Love You.mp3",
 		"likes": 166,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	},
 	{
 		"id": 25,
@@ -303,7 +243,6 @@
 		"path": "./assets/songs/blues-rock/The Outsider CD 1 TRACK 1 (320).mp3",
 		"banner": "",
 		"likes": 79,
-		"favorited": false,
-		"comments": []
+		"favorited": false
 	}
 ]
