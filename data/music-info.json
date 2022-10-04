@@ -1,226 +1,233 @@
 [
 	{
 		"id": 1,
-		"recommendedForYou": [
-			{
-				"id": 1,
-				"songName": "Why Does It Take So Long To Say Goodbye",
-				"songArtist": "Joe Bonamassa",
-				"path": "./assets/songs/recommended for you/Joe Bonamassa - Why Does It Take So Long To Say Goodbye.mp3",
-				"banner": "./assets/images/RCA_BONAMASSA.png",
-				"likes": 644,
-				"liked": true
-			},
-			{
-				"id": 2,
-				"songName": "Don't Write Me Off",
-				"songArtist": "Mighty Sam McClain",
-				"path": "./assets/songs/blues-jazz/Don't Write Me Off.mp3",
-				"banner": "",
-				"likes": 425
-			},
-			{
-				"id": 3,
-				"songName": "Been There, Done That",
-				"songArtist": "Mighty Sam McClain",
-				"path": "./assets/songs/blues-jazz/Been There, Done That.mp3",
-				"banner": "",
-				"likes": 637
-			},
-			{
-				"id": 4,
-				"songName": "Feels Like Rain",
-				"songArtist": "Buddy Guy",
-				"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
-				"banner": "./assets/images/Buddy Guy.png",
-				"likes": 532
-			}
-		]
+		"playList": "recommendedForYou",
+		"songName": "Why Does It Take So Long To Say Goodbye",
+		"songArtist": "Joe Bonamassa",
+		"path": "./assets/songs/recommended for you/Joe Bonamassa - Why Does It Take So Long To Say Goodbye.mp3",
+		"banner": "./assets/images/RCA_BONAMASSA.png",
+		"likes": 644,
+		"liked": true
 	},
-	
 	{
 		"id": 2,
-		"bluesJazz": [
-			{
-				"id": 1,
-				"songName": "Cry Me A River",
-				"songArtist": "China Moses",
-				"path": "./assets/songs/blues-jazz/China Moses  - Cry Me a River.mp3",
-				"banner": "",
-				"likes": 203
-			},
-			{
-				"id": 2,
-				"songName": "Your Heart Is Black As Night",
-				"songArtist": "Chloé",
-				"path": "./assets/songs/blues-jazz/Chloé - Your Heart Is As Black As Night.mp3",
-				"banner": "",
-				"likes": 123
-			},
-			{
-				"id": 3,
-				"songName": "Invitation To The Blues",
-				"songArtist": "Claudia Bettinaglio",
-				"path": "./assets/songs/blues-jazz/Claudia Bettinaglio - Invitation To The Blues.mp3",
-				"banner": "",
-				"likes": 422,
-				"liked": true
-			},
-			{
-				"id": 4,
-				"songName": "Don't Write Me Off",
-				"songArtist": "Mighty Sam McClain",
-				"path": "./assets/music/blues-jazz/Don't Write Me Off.mp3",
-				"banner": "",
-				"likes": 314,
-				"liked": true
-			},
-			{
-				"id": 5,
-				"songName": "I Remember You",
-				"songArtist": "Eilen Jewell",
-				"path": "./assets/songs/blues-jazz/Eilen Jewell - I Remember You.mp3",
-				"banner": "",
-				"likes": 157
-			},
-			{
-				"id": 6,
-				"songName": "I Need to See You Again",
-				"songArtist": "Natalia M. King",
-				"path": "./assets/songs/blues-jazz/I Need to See You Again - Natalia M. King.mp3",
-				"banner": "",
-				"likes": 700
-			},
-			{
-				"id": 7,
-				"songName": "She's Crazy",
-				"songArtist": "JT Coldfire",
-				"path": "./assets/songs/blues-jazz/JT Coldfire - She_s Crazy.m4a",
-				"banner": "",
-				"likes": 130,
-				"liked": true
-			},
-			{
-				"id": 8,
-				"songName": "Big Bad Handsome Man",
-				"songArtist": "Linda Carone",
-				"path": "./assets/songs/blues-jazz/Linda Carone - Big Bad Handsome Man.mp3",
-				"likes": 234
-			},
-			{
-				"id": 9,
-				"songName": "Damn Your Eyes",
-				"songArtist": "Luce Dufault",
-				"path": "./assets/songs/blues-jazz/Luce Dufault - Damn Your Eyes.mp3",
-				"banner": "",
-				"likes": 245
-			},
-			{
-				"id": 10,
-				"songName": "I Love You More You'll Ever Know",
-				"songArtist": "Oli Brown",
-				"path": "./assets/songs/blues-jazz/Oli Brown - I Love You More You'll Ever Know.mp3",
-				"banner": "",
-				"likes": 326
-			},
-			{
-				"id": 11,
-				"songName": "Feels Like Rain",
-				"songArtist": "Buddy Guy",
-				"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
-				"banner": "./assets/images/Buddy Guy.png",
-				"likes": 532
-			}
-		]
+		"playList": "recommendedForYou",
+		"songName": "Don't Write Me Off",
+		"songArtist": "Mighty Sam McClain",
+		"path": "./assets/songs/blues-jazz/Don't Write Me Off.mp3",
+		"banner": "",
+		"likes": 425
 	},
-
 	{
 		"id": 3,
-		"bluesRock": [
-			{
-				"id": 1,
-				"songName": "A Virus Called The Blues",
-				"songArtist": "Billy Jenkins",
-				"path": "./assets/songs/blues-rock/Billy Jenkins - A Virus Called The Blues.m4a",
-				"banner": "",
-				"likes": 214,
-				"liked": true
-			},
-			{
-				"id": 2,
-				"songName": "Vincent Price Blues",
-				"songArtist": "ZZ Top",
-				"path": "./assets/songs/blues-rock/20. Vincent Price Blues.mp3",
-				"likes": 146,
-				"liked": true
-			},
-			{
-				"id": 3,
-				"songName": "Over You",
-				"songArtist": "ZZ Top",
-				"path": "./assets/songs/blues-rock/26. Over You.mp3",
-				"banner": "",
-				"likes": 163
-			},
-			{
-				"id": 4,
-				"songName": "Do I Look Worried",
-				"songArtist": "Tedeschi Trucks Band",
-				"path": "./assets/songs/blues-rock/Do I look worried.mp3",
-				"banner": "",
-				"likes": 198,
-				"liked": false
-			},
-			{
-				"id": 5,
-				"songName": "I Put A Spell On You",
-				"songArtist": "Garou",
-				"path": "./assets/songs/blues-rock/Garou - I Put a Spell on You.mp3",
-				"banner": "",
-				"likes": 191,
-				"liked": true
-			},
-			{
-				"id": 6,
-				"songName": "I Need Time",
-				"songArtist": "China Moses",
-				"path": "./assets/songs/blues-rock/I Need Time CD 1 TRACK 3 (320).mp3",
-				"banner": "",
-				"likes": 149
-			},
-			{
-				"id": 7,
-				"songName": "I'm In A Dangerous Mood",
-				"songArtist": "BB. King ft. Joe Cocker",
-				"path": "./assets/songs/blues-rock/I'm in a dangerous mood.m4a",
-				"banner": "",
-				"likes": 175,
-				"liked": false
-			},
-			{
-				"id": 8,
-				"songName": "You Were Never Mine",
-				"songArtist": "Janiva Magness",
-				"path": "./assets/songs/blues-rock/Janiva Magness You Were Never Mine.mp3",
-				"banner": "",
-				"likes": 156,
-				"liked": false
-			},
-			{
-				"id": 9,
-				"songName": "Too Afraid to Love You",
-				"songArtist": "The Black Keys",
-				"path": "./assets/songs/blues-rock/The Black Keys - Too Afraid to Love You.mp3",
-				"likes": 166
-			},
-			{
-				"id": 10,
-				"songName": "Welcome To The Human Race",
-				"songArtist": "Walter Trout",
-				"path": "./assets/songs/blues-rock/The Outsider CD 1 TRACK 1 (320).mp3",
-				"banner": "",
-				"likes": 79
-			}
-		]
+		"playList": "recommendedForYou",
+		"songName": "Been There, Done That",
+		"songArtist": "Mighty Sam McClain",
+		"path": "./assets/songs/blues-jazz/Been There, Done That.mp3",
+		"banner": "",
+		"likes": 637
+	},
+	{
+		"id": 4,
+		"playList": "recommendedForYou",
+		"songName": "Feels Like Rain",
+		"songArtist": "Buddy Guy",
+		"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
+		"banner": "./assets/images/Buddy Guy.png",
+		"likes": 532
+	},
+	{
+		"id": 5,
+		"playList": "bluesJazz",
+		"songName": "Cry Me A River",
+		"songArtist": "China Moses",
+		"path": "./assets/songs/blues-jazz/China Moses  - Cry Me a River.mp3",
+		"banner": "",
+		"likes": 203
+	},
+	{
+		"id": 6,
+		"playList": "bluesJazz",
+		"songName": "Your Heart Is Black As Night",
+		"songArtist": "Chloé",
+		"path": "./assets/songs/blues-jazz/Chloé - Your Heart Is As Black As Night.mp3",
+		"banner": "",
+		"likes": 123
+	},
+	{
+		"id": 7,
+		"playList": "bluesJazz",
+		"songName": "Invitation To The Blues",
+		"songArtist": "Claudia Bettinaglio",
+		"path": "./assets/songs/blues-jazz/Claudia Bettinaglio - Invitation To The Blues.mp3",
+		"banner": "",
+		"likes": 422,
+		"liked": true
+	},
+	{
+		"id": 8,
+		"playList": "bluesJazz",
+		"songName": "Don't Write Me Off",
+		"songArtist": "Mighty Sam McClain",
+		"path": "./assets/music/blues-jazz/Don't Write Me Off.mp3",
+		"banner": "",
+		"likes": 314,
+		"liked": true
+	},
+	{
+		"id": 9,
+		"playList": "bluesJazz",
+		"songName": "I Remember You",
+		"songArtist": "Eilen Jewell",
+		"path": "./assets/songs/blues-jazz/Eilen Jewell - I Remember You.mp3",
+		"banner": "",
+		"likes": 157
+	},
+	{
+		"id": 10,
+		"playList": "bluesJazz",
+		"songName": "I Need to See You Again",
+		"songArtist": "Natalia M. King",
+		"path": "./assets/songs/blues-jazz/I Need to See You Again - Natalia M. King.mp3",
+		"banner": "",
+		"likes": 700
+	},
+	{
+		"id": 11,
+		"playList": "bluesJazz",
+		"songName": "She's Crazy",
+		"songArtist": "JT Coldfire",
+		"path": "./assets/songs/blues-jazz/JT Coldfire - She_s Crazy.m4a",
+		"banner": "",
+		"likes": 130,
+		"liked": true
+	},
+	{
+		"id": 12,
+		"playList": "bluesJazz",
+		"songName": "Big Bad Handsome Man",
+		"songArtist": "Linda Carone",
+		"path": "./assets/songs/blues-jazz/Linda Carone - Big Bad Handsome Man.mp3",
+		"likes": 234
+	},
+	{
+		"id": 13,
+		"songName": "Damn Your Eyes",
+		"songArtist": "Luce Dufault",
+		"path": "./assets/songs/blues-jazz/Luce Dufault - Damn Your Eyes.mp3",
+		"banner": "",
+		"likes": 245
+	},
+	{
+		"id": 14,
+		"playList": "bluesJazz",
+		"songName": "I Love You More You'll Ever Know",
+		"songArtist": "Oli Brown",
+		"path": "./assets/songs/blues-jazz/Oli Brown - I Love You More You'll Ever Know.mp3",
+		"banner": "",
+		"likes": 326
+	},
+	{
+		"id": 15,
+		"playList": "bluesJazz",
+		"songName": "Feels Like Rain",
+		"songArtist": "Buddy Guy",
+		"path": "./assets/songs/blues-jazz/03 Feels Like Rain.mp3",
+		"banner": "./assets/images/Buddy Guy.png",
+		"likes": 532
+	},
+	{
+		"id": 16,
+		"playList": "bluesRock",
+		"songName": "A Virus Called The Blues",
+		"songArtist": "Billy Jenkins",
+		"path": "./assets/songs/blues-rock/Billy Jenkins - A Virus Called The Blues.m4a",
+		"banner": "",
+		"likes": 214,
+		"liked": true
+	},
+	{
+		"id": 17,
+		"playList": "bluesRock",
+		"songName": "Vincent Price Blues",
+		"songArtist": "ZZ Top",
+		"path": "./assets/songs/blues-rock/20. Vincent Price Blues.mp3",
+		"likes": 146,
+		"liked": true
+	},
+	{
+		"id": 18,
+		"playList": "bluesRock",
+		"songName": "Over You",
+		"songArtist": "ZZ Top",
+		"path": "./assets/songs/blues-rock/26. Over You.mp3",
+		"banner": "",
+		"likes": 163
+	},
+	{
+		"id": 19,
+		"playList": "bluesRock",
+		"songName": "Do I Look Worried",
+		"songArtist": "Tedeschi Trucks Band",
+		"path": "./assets/songs/blues-rock/Do I look worried.mp3",
+		"banner": "",
+		"likes": 198,
+		"liked": false
+	},
+	{
+		"id": 20,
+		"playList": "bluesRock",
+		"songName": "I Put A Spell On You",
+		"songArtist": "Garou",
+		"path": "./assets/songs/blues-rock/Garou - I Put a Spell on You.mp3",
+		"banner": "",
+		"likes": 191,
+		"liked": true
+	},
+	{
+		"id": 21,
+		"playList": "bluesRock",
+		"songName": "I Need Time",
+		"songArtist": "China Moses",
+		"path": "./assets/songs/blues-rock/I Need Time CD 1 TRACK 3 (320).mp3",
+		"banner": "",
+		"likes": 149
+	},
+	{
+		"id": 22,
+		"playList": "bluesRock",
+		"songName": "I'm In A Dangerous Mood",
+		"songArtist": "BB. King ft. Joe Cocker",
+		"path": "./assets/songs/blues-rock/I'm in a dangerous mood.m4a",
+		"banner": "",
+		"likes": 175,
+		"liked": false
+	},
+	{
+		"id": 23,
+		"playList": "bluesRock",
+		"songName": "You Were Never Mine",
+		"songArtist": "Janiva Magness",
+		"path": "./assets/songs/blues-rock/Janiva Magness You Were Never Mine.mp3",
+		"banner": "",
+		"likes": 156,
+		"liked": false
+	},
+	{
+		"id": 24,
+		"playList": "bluesRock",
+		"songName": "Too Afraid to Love You",
+		"songArtist": "The Black Keys",
+		"path": "./assets/songs/blues-rock/The Black Keys - Too Afraid to Love You.mp3",
+		"likes": 166
+	},
+	{
+		"id": 25,
+		"playList": "bluesRock",
+		"songName": "Welcome To The Human Race",
+		"songArtist": "Walter Trout",
+		"path": "./assets/songs/blues-rock/The Outsider CD 1 TRACK 1 (320).mp3",
+		"banner": "",
+		"likes": 79
 	}
 ]
